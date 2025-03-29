@@ -16,7 +16,7 @@ dependencies:
   device_frame:
     git:
       url: https://github.com/lurcas/flutter_device_preview.git
-      ref: update_freezed_dependencies
+      ref: dev
       path: device_frame
   freezed_annotation: ^3.0.0
   json_annotation: ^4.9.0

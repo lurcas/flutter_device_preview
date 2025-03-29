@@ -13,7 +13,7 @@ dependencies:
   device_preview:
     git:
       url: https://github.com/lurcas/flutter_device_preview.git
-      ref: update_freezed_dependencies
+      ref: dev
       path: device_preview
   flutter:
     sdk: flutter
